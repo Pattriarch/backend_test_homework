@@ -1,1 +1,8 @@
-just a gitignore
+# Ignore file README.md
+README.md
+
+# Ignore file side.txt in directory build
+build/side.txt
+
+# Ignore all files with extension .doc
+*.doc
